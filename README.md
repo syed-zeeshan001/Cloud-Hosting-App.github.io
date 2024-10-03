@@ -14,8 +14,3 @@ This is a cloud hosting website template built with **HTML**, **CSS**, and **Jav
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling the website, including responsiveness and modern design.
 - **JavaScript**: Adds interactivity and server management functionality.
-
-  ## Screenshots
-
-![Loruki Homepage](path/to/screenshot.png)  
-_A screenshot of the Loruki homepage._
